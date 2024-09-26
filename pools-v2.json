@@ -1678,5 +1678,16 @@
     ],
     "tags": ["/Neopool/"],
     "link": "https://neopool.com/"
+  },
+  {
+    "id": 155,
+    "name": "PyBLOCK POOL",
+    "addresses": [
+      "bc1qzya6rm8pura7a027hk80msyxz5gx5dqkdkg73x"
+    ],
+    "tags": [
+      "/mined by PyBLOCK pool/"
+    ],
+    "link": "https://pool.pyblock.xyz"
   }
 ]
